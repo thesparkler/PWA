@@ -1,7 +1,7 @@
 {
     "name": "My Profile",
     "short_name": "MyProfile",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display" : "standalone",
     "background_color": "#ffe9d2",
     "theme_color": "#000000",
